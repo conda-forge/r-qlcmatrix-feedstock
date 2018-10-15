@@ -15,7 +15,7 @@ source:
   sha256: 4e13c2413dc28ecda0eff05ae6d6a0e4ed4597c368ce9a2031e2cad57c4ca43a
 
 build:
-  number: 0
+  number: 1
   skip: true  # [win32]
   rpaths:
     - lib/R/lib/
@@ -46,5 +46,6 @@ about:
 
 extra:
   recipe-maintainers:
+    - dpryan79
     - johanneskoester
     - bgruening
