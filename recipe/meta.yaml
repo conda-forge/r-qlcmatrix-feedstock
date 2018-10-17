@@ -24,14 +24,12 @@ build:
 requirements:
   build:
     - {{posix}}zip               # [win]
-
   host:
     - r-base
     - r-matrix >=1.1_0
     - r-docopt
     - r-slam >=0.1_32
     - r-sparsesvd
-
   run:
     - r-base
     - r-matrix >=1.1_0
