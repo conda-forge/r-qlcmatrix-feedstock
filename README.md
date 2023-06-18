@@ -1,11 +1,11 @@
-About r-qlcmatrix
-=================
+About r-qlcmatrix-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-qlcmatrix-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=qlcMatrix
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-qlcmatrix-feedstock/blob/main/LICENSE.txt)
 
 Summary: Extension of the functionality of the Matrix package for using sparse matrices. Some of the functions are very general, while other are highly specific for special data format as used for quantitative language comparison (QLC).
 
